@@ -4,7 +4,7 @@ include_once'funciones.php';
 ?>
 <html>
     <head><meta charset="utf-8">
-	<link rel="stylesheet" href="decoracion.css" type="text/css">
+	<link rel="stylesheet" href="css/decoracion.css" type="text/css">
         <style type="text/css">
         footer{margin-top: 345px}
         article{text-align: center;font-size: 2em}

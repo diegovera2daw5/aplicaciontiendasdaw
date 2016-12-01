@@ -5,6 +5,7 @@ include_once'funciones.php';
  ?>
 <html>
     <head><meta charset="utf-8">
+		<link rel="stylesheet" href="ccs/decoracion.css" type="text/css">
         <style type="text/css">
 
         footer{margin-top: 473px;}
