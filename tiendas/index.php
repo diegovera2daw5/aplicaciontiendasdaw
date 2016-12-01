@@ -3,8 +3,8 @@ session_start();
 ?>
 <html>
     <head><meta charset="utf-8">
+	<link rel="stylesheet" href="decoracion.css" type="text/css">
         <style type="text/css">
-            body{width:800px;height:768px; }
             h1,footer{text-align:center}
             header{background-color:gainsboro;height:40px}
         section{text-align: center}
